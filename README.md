@@ -1,5 +1,5 @@
-# 209-fall_sec06_teamB_FinalProject
-Final Project: 209 Fall Section 06 Team B
+# 209-fall2023_sec06_teamB_FinalProject
+Final Project: 209 Fall 2023 Section 06 Team B
 
 Members: Jason Frankel, Kotaro Hama, Mackenzie Austin, Patrick Xu
 
